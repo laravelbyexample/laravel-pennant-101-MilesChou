@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Basic Test",
+      "setup": "",
+      "run": "php vendor/bin/phpunit",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    }
+  ]
+}
