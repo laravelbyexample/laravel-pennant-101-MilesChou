@@ -2,7 +2,7 @@
   "tests": [
     {
       "name": "Basic Test",
-      "setup": "",
+      "setup": "make .env",
       "run": "php vendor/bin/phpunit",
       "input": "",
       "output": "",
